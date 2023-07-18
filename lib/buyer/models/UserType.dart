@@ -1,0 +1,3 @@
+enum UserType{
+  BUYER,SELLER,DELIVERY
+}
